@@ -1,0 +1,44 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 3.7in;
+    margin-right: 3.7in;
+    margin-top: .5in;
+    padding-bottom: .1in;
+    height: 100%;
+}
+
+#setting {
+    text-decoration: underline;
+}
+
+.speaker {
+    text-align: center;
+    margin-top: .2in;
+}
+
+.btn {
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid #fff;
+    color: black;
+    vertical-align: middle;
+}
+
+.btn-text {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    vertical-align: middle;
+}
+
+.btn:focus {
+    outline: none;
+}
+
+.footer {
+    margin-top: 20px; 
+    display: inline-block;
+    line-height: 60px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
